@@ -1,3 +1,29 @@
+# CTP445 Augmented Reality Homework
+This is the repository for the 2025 summer semester of Augmented Reality (CTP445).
+If you have any questions, contact to TA via e-mail.
+
+
+## Homework Instructions
+
+- HW1 : [How to build AR project](https://docs.google.com/presentation/d/1KhYUMZ-ekOiTczDQdMe_qxdOXDCVgMZeOsZIXw_Eqmk/edit?usp=sharing)
+- HW2 : [Link]()
+- HW3 : [Link]()
+- HW4 : [Link]()
+
+
+## Materials
+We refer to the MRUK samples (https://github.com/oculus-samples/Unity-MRUtilityKitSample) for HW/Project implementations. There are helpful scenes for your HW in the ‘Assets/MRUKSamples/’ folder.
+The main folders for HW is in the ‘Assets/CTP445’.
+
+
+## Submission
+For the submission for the further homeworks, you are supposed to submit each zipped HW folder (e.g. HW1.zip), build file (e.g. HW1.apk) and recorded video of the project. (via KLMS!)
+
+
+
+--------
+
+
 # Unity MRUK Sample
 
 This sample project will help you navigate and understand the MR Utility Kit APIs through a collection of samples that. Feel free to delve into these APIs, try them out, and discover creative ways to apply them in your projects.
