@@ -5,7 +5,8 @@ If you have any questions, contact to TA via e-mail.
 
 ## Homework Instructions
 
-- HW1 : [How to build AR project](https://docs.google.com/presentation/d/1KhYUMZ-ekOiTczDQdMe_qxdOXDCVgMZeOsZIXw_Eqmk/edit?usp=sharing)
+- HW0 : [How to build AR project](https://docs.google.com/presentation/d/1KhYUMZ-ekOiTczDQdMe_qxdOXDCVgMZeOsZIXw_Eqmk/edit?usp=sharing)
+- HW1 : [Link]()
 - HW2 : [Link]()
 - HW3 : [Link]()
 - HW4 : [Link]()
@@ -18,6 +19,12 @@ The main folders for HW is in the ‘Assets/CTP445’.
 
 ## Submission
 For the submission for the further homeworks, you are supposed to submit each zipped HW folder (e.g. HW1.zip), build file (e.g. HW1.apk) and recorded video of the project. (via KLMS!)
+
+
+## References
+- [Mixed Reality Utility Kit](https://assetstore.unity.com/packages/tools/integration/meta-mr-utility-kit-272450) / [Documentation](https://developers.meta.com/horizon/documentation/unity/unity-mr-utility-kit-overview/)
+- [Meta XR Interaction Toolkit](https://assetstore.unity.com/packages/tools/integration/meta-xr-interaction-sdk-265014?srsltid=AfmBOopN9uLYNxJXmZCmgUFpuHiB1KSKMCztU8kDohCRIQdULFDdCfVL) / [Documentation](https://developers.meta.com/horizon/documentation/unity/unity-isdk-interaction-sdk-overview/)
+
 
 
 
